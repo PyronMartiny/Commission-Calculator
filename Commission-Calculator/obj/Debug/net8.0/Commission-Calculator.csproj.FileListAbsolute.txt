@@ -1,0 +1,14 @@
+C:\Users\kyron\source\repos\Commission-Calculator\Commission-Calculator\obj\Debug\net8.0\Commission-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyron\source\repos\Commission-Calculator\Commission-Calculator\obj\Debug\net8.0\Commission-Calculator.AssemblyInfoInputs.cache
+C:\Users\kyron\source\repos\Commission-Calculator\Commission-Calculator\obj\Debug\net8.0\Commission-Calculator.AssemblyInfo.cs
+C:\Users\kyron\source\repos\Commission-Calculator\Commission-Calculator\obj\Debug\net8.0\Commission-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\kyron\source\repos\Commission-Calculator\Commission-Calculator\bin\Debug\net8.0\Commission-Calculator.exe
+C:\Users\kyron\source\repos\Commission-Calculator\Commission-Calculator\bin\Debug\net8.0\Commission-Calculator.deps.json
+C:\Users\kyron\source\repos\Commission-Calculator\Commission-Calculator\bin\Debug\net8.0\Commission-Calculator.runtimeconfig.json
+C:\Users\kyron\source\repos\Commission-Calculator\Commission-Calculator\bin\Debug\net8.0\Commission-Calculator.dll
+C:\Users\kyron\source\repos\Commission-Calculator\Commission-Calculator\bin\Debug\net8.0\Commission-Calculator.pdb
+C:\Users\kyron\source\repos\Commission-Calculator\Commission-Calculator\obj\Debug\net8.0\Commission-Calculator.dll
+C:\Users\kyron\source\repos\Commission-Calculator\Commission-Calculator\obj\Debug\net8.0\refint\Commission-Calculator.dll
+C:\Users\kyron\source\repos\Commission-Calculator\Commission-Calculator\obj\Debug\net8.0\Commission-Calculator.pdb
+C:\Users\kyron\source\repos\Commission-Calculator\Commission-Calculator\obj\Debug\net8.0\Commission-Calculator.genruntimeconfig.cache
+C:\Users\kyron\source\repos\Commission-Calculator\Commission-Calculator\obj\Debug\net8.0\ref\Commission-Calculator.dll
